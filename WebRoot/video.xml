@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<video>
+    <item>
+        <id>001</id>    
+        <name>audi_A8.mp4</name>
+        <skey>0123456789abcdef0123456789abcdee</skey>
+        <duration>00:01:09</duration>
+        <size>4.20M</size>
+        <url>http://192.168.1.102:8080/jsonProject/video/audi_A8.mp4</url>
+	<thumb_url>http://192.168.1.102:8080/jsonProject/video/audi.jpg</thumb_url>
+     </item>
+     <item>
+        <id>002</id>    
+        <name>Jay_Chou.mp4</name>
+        <skey>0123456789abcdef0123456789abcdee</skey>
+        <duration>00:04:47</duration>
+        <size>41.10M</size>
+        <url>http://192.168.1.102:8080/jsonProject/video/Jay_Chou.mp4</url>
+	<thumb_url>http://192.168.1.102:8080/jsonProject/video/Jay.jpg</thumb_url>
+     </item>
+     <item>
+        <id>003</id>    
+        <name>RunningMan.mp4</name>
+        <skey>0123456789abcdef0123456789abcdee</skey>
+        <duration>00:12:37</duration>
+        <size>212M</size>
+        <url>http://192.168.1.102:8080/jsonProject/video/RunningMan.mp4</url>
+	<thumb_url>http://192.168.1.102:8080/jsonProject/video/runningMan.jpg</thumb_url>
+     </item>
+</video>
